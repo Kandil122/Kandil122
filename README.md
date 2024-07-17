@@ -3,9 +3,9 @@
 <h3 align="center">I have passionate in problem solving programming</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Chronus , time mangment app**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **java, javascript**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **AdhamKandil21@gmail.com**
 
