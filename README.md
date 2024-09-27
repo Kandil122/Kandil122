@@ -1,9 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
-<h1 align="center">I'm Adham Kandil</h1>
-<h3 align="center">Computer Engineer</h3>
+<h1 align="center">Adham Kandil</h1>
+<h3 align="center">ASU Computer Engineer Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **ML & DL models**
 
 - 🌱 I’m currently learning **python**
 
