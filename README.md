@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adham kandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adham kandil" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/adham kandil](https://www.linkedin.com/in/adham-kandil-694966267/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adham kandil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kandil12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kandil12" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kandil12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kandil12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kandil12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kandil12" height="30" width="40" /></a>
